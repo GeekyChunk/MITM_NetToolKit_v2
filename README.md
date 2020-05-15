@@ -7,4 +7,4 @@ python2 NET_ToolKit.py
 Arsenic-MITM@protonmail.com
 # phone:
 +989051565969
-# it is allowed for ubuntu but the readhate version is coming soon
+# it is allowed for ubuntu but the readhat version is coming soon
