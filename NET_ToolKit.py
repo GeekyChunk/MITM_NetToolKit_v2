@@ -25,7 +25,7 @@ else:
 	print
 if "0" in SRV:
     import os
-    CMD_1st = "python files/setup.py"
+    CMD_1st = "python2 files/setup.py"
     clear = "clear"
     os.system(clear)
     os.system(CMD_1st)
@@ -34,7 +34,7 @@ else:
     print
 if "1" in SRV:
     import os
-    CMD_1st = "python files/Clients.py"
+    CMD_1st = "python2 files/Clients.py"
     clear = "clear"
     os.system(clear)
     os.system(CMD_1st)
@@ -43,7 +43,7 @@ else:
     print
 if "2" in SRV:
     import os
-    CMD_1st = "sudo python files/sniff.py"
+    CMD_1st = "sudo python2 files/sniff.py"
     clear = "clear"
     os.system(clear)
     os.system(CMD_1st)
@@ -52,7 +52,7 @@ else:
     print
 if "3" in SRV:
     import os
-    CMD_1st = "python files/info_site.py"
+    CMD_1st = "python2 files/info_site.py"
     clear = "clear"
     os.system(clear)
     os.system(CMD_1st)
@@ -61,7 +61,7 @@ else:
     print
 if "4" in SRV:
     import os
-    CMD_1st = "sudo python files/WiFi_Killer.py"
+    CMD_1st = "sudo python2 files/WiFi_Killer.py"
     clear = "clear"
     os.system(clear)
     os.system(CMD_1st)
@@ -69,11 +69,11 @@ if "4" in SRV:
 else:
     import os
     CMD_1st = "clear"
-    CMD_2nd = "python NET_Tool.py"
+    CMD_2nd = "python2 NET_Tool.py"
     os.system(CMD_1st)
 if "99" in SRV:
     exit()
 else:
 	print
-CMD_RE = "python NET_ToolKit.py"
+CMD_RE = "python2 NET_ToolKit.py"
 os.system(CMD_RE)
