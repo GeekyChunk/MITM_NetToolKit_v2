@@ -1,16 +1,14 @@
-## MITM_Net_ToolKit
+# MITM_Net_ToolKit
 
-# Updating to Python3 Thanks for waiting
-
-
+# Version 2
 
 
 the mini network tool kit
-## Made by 
+## Made by TuxTech
 ## for use script use down command
 python NET_ToolKit.py
 
-email:
+## email:
 
 Arsenic-MITM@protonmail.com
 ## Discord
