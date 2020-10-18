@@ -3,8 +3,12 @@
 # Version 2
 
 ## Dependencies:
+python
+
+python2-pip
 
 python2 scapy
+
 builtwith
 
 ### install from pip!
